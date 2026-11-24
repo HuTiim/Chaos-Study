@@ -1,2 +1,2 @@
-# Estudo
-Repositório criado para o estudo de sistemas não lineares e instáveis entre outros fundamentos
+# Instruction
+This repository was created to keep all the studies in the fields than are to connected with chaotic systems, such as non linearity and dynamical systems.
